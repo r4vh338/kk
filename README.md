@@ -6,11 +6,13 @@
  </head>
  <body>
  
- <h1>项目介绍</h1>
+ <h1>项目介绍📊</h1>
  <p>HTML5+CSS3+JAVA SCRIPT</p>
  <p><i>项目地址:https://r4vh338.github.io/kk/</i></p>
 <p><i>源码地址:https://github.com/r4vh338/kk</i></p>
   <h6>作者:Hh</6>
     <h1>友情链接🔗</h1>
+  <h6>https://v.douyin.com/FPRH-7qTTgc/ 7@5.com :1pm</6>    <h6>https://qm.qq.com/q/kYwuoEDcJ2</6>
+<h6>https://b23.tv/yv6qhPE</6>
  </body>
  </html>
