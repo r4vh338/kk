@@ -10,9 +10,11 @@
  <p>HTML5+CSS3+JAVA SCRIPT</p>
  <p><i>项目地址:https://r4vh338.github.io/kk/</i></p>
 <p><i>源码地址:https://github.com/r4vh338/kk</i></p>
-  <h6>作者:Hh</6>
+  
     <h1>友情链接🔗</h1>
   <h6>抖音: https://v.douyin.com/FPRH-7qTTgc/</6>    <h6>QQ: https://qm.qq.com/q/kYwuoEDcJ2</6>
 <h6>B站: https://b23.tv/yv6qhPE</6>
+  <hr>
+
  </body>
  </html>
