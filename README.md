@@ -8,8 +8,8 @@
  
  <h1>项目介绍</h1>
  <p>HTML5+CSS3+JAVA SCRIPT</p>
- <i>项目地址:https://r4vh338.github.io/kk/</i>
-<p>源码地址:https://github.com/r4vh338/kk</p>
+ <p><i>项目地址:https://r4vh338.github.io/kk/</i></p>
+<p><i>源码地址:https://github.com/r4vh338/kk</i></p>
   <h6>作者:Hh</6>
  </body>
  </html>
