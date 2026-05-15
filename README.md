@@ -16,6 +16,7 @@
  <h6>QQ:https://qm.qq.com/q/kYwuoEDcJ2</6>
 <h6>B站: https://b23.tv/yv6qhPE</6>
   <hr>
-  <h6>作者:Hh</6>
+  <h6>作者:Hh</h6>
+  <h6>感谢大家对我的支持😊</h6>
  </body>
  </html>
