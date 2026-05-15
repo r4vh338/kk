@@ -7,7 +7,7 @@
  <body>
  
  <h1>Hello world</h1>
- <p>这是一个页面示例</p>
+ <p>HTML5</p>
  <i>进入:
  https://r4vh338.github.io/kk/
  </i>
