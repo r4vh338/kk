@@ -19,18 +19,20 @@
       backdrop-filter:blur(8px);
       border:1px solid rgba(255,255,255,0.7);
       border-radius:14px;
+      
+      
       box-shadow: inset -1px 2px 1px -1px rgba(252,247,247,0.51) ,inset 1px 2px 1px -1px rgba(128,125,125,0.10);
                     
      }      
       .a2:active{
       background-color: #FFF6F6;
-      /*三元点*/
+      /*三色块*/
       }
       .b1{
       background-color: #34455D;
       box-shadow: inset -1px 2px 1px -1px rgba(250,250,253,0.13);
       color: #fff;
-      border-radius: 12px;
+      border-radius: 13px 13px 1px 1px;
       font-size: 16px;
       font-weight: 800;
       line-height: 1.5;
@@ -39,12 +41,15 @@
       padding-left: 2px;
       margin-bottom: 1px;
       margin-top: 4px;
+      box-shadow: 1px 2px 5px #7F7F7F;
       }
+      /*白色块*/
       .b2{
       background-color: #fafafd;
       box-shadow: inset -2px 2px 1px -1px rgba(255,255,255,0.94);
-      border-radius: 12px;
+      border-radius: 1px 1px 13px 13px;
       padding: 12px;
+      box-shadow: 1px 3px 5px #888888;
       margin-top: 1px;
       margin-bottom: 23px;
       }
